@@ -1,0 +1,66 @@
+<!doctype html> 
+
+<html> 
+
+<head> 
+
+
+</head> 
+
+<body> 
+
+<h1>	Project 1: Technical Workshop with AI	</h1> 
+
+<h3>	Megan McGuire	</h3>
+
+<h3>	meganleann13@gmail.com	</h3> 
+
+<h2> 	Two Generative Artificial Intelligence Platforms	</h2>
+
+<p>	1. <a	href="https://www.perplexity.ai/">Perplexity</a>
+<p>	2. <a	href="https://openai.com/index/chatgpt/">ChatGPT</a>	</p> 
+
+<h2> 	Links for Both GenAI Platform Conversations	</h2> 
+
+<p>	1. <a	href="https://www.perplexity.ai/search/explain-semantic-html-structur-aW._wdenQtqPMP6iRbpfcQ#3">Perplexity</a>	</p>
+<p>	2. <a	href="https://chatgpt.com/share/69bea7e4-ee64-8006-b0ba-78e267805881">ChatGPT</a>	</p> 
+
+<h2> 	Learning Resources for Each Topic	</h2> 
+
+<h3>	1. Semantic HTML Structure organizes content	</h3>
+	<h4>	A. <a	href="https://www.youtube.com/watch?v=YOsMJQfwqow">Kevin Powell HTML & CSS for Absolute Beginners: Semantic HTML YouTube video</a>	</h4>
+	<p>	This YouTube video was found on Perplexity: Kevin Powell teaches beginners how to implement Semantic HTML into their coding with a side-by-side comparison of his website and coding 		document.  	</p> 
+	<h4>	B. <a	href="https://developer.mozilla.org/en-US/curriculum/core/semantic-html/">Mozilla MDN Web Docs Platform</a>	</h4>
+	<p>	This document was found on ChatGPT: This document is from Mozilla’s MDN Web Docs in the Semantic HTML module and teaches learners to write HTML that is accessible and well-			structured.  	</p> 
+
+<h3>	2. Basic JavaScript's main role is behavior as it contributes logic and interactivity	</h3> 
+	<h4>	A. <a	href="https://learnjavascript.online/">Learn Basic JavaScript with Jad Joubran</a>	</h4>
+	<p>	This multi-media learning resource was found on Perplexity: With Learn JavaScript Online, users can learn and apply modern JavaScript step by step with coding challenges, practice 		exercises, and short lessons.  	</p> 
+	<h4>	B. <a	href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">Free Code Camp</a>	</h4>
+	<p>	This online learning resource was found on ChatGPT: Free Code Camp is a self-paced online curriculum platform used to educate users on programing in JavaScript for free.  	</p> 
+
+<h3>	3. Cascading Style Sheets (CSS) incorporate design elements such as layout and appearance	</h3>
+	<h4>	A. <a	href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics">Mozilla MDN Web Docs Platform</a>	</h4>
+	<p>	This document was found on Perplexity: This document is from Mozilla MDN Web Docs in the CSS Styling Basics module and teaches learners about the innerworkings of CSS, such as 		appearance and layout.	</p> 
+	<h4>	B. <a	href="https://www.w3schools.com/css/">CSS Tutorial on w3schools.com</a>	</h4>
+	<p>	This resource was found on ChatGPT: w3schools is a web-based learning resource that provides tutorials on Cascading Style Sheets concepts such as design and style web pages. 	</p>
+
+<h2>	Similarities and Differences Between Perplexity and ChatGPT	</h2>
+
+	<h3>	Similarities	</h3>
+<p>	- Both platform responses answer the prompt effectively.	</p>
+<p>	- Both offer continuous research prompts/questions regarding the initial prompt near the end of each response.	</p>
+<p>	- Both offer resources when prompted.	</p> 
+
+	<h3>	Differences	</h3>
+<p>	- Accuracy and correctness: Perplexity proved to be more accurate and correct when it came to credible resources. In my experience, ChatGPT populated a lot of broken links or unreliable resources.	</p> 
+<p>	- Clarity and understandability: ChatGPT’s layout made the content clearer and more understandable by breaking up the information into smaller sections with icons and pictures. Perplexity didn’t chunk the content in any type of way; it simply computed and listed the information in a more technical layout.	</p> 
+<p>	- Depth and completeness: Perplexity offers tabs at the top of the page that include reliable links and images connecting to the conversation. ChatGPT has proved that its depth and completeness fall short due to broken links or sources from different countries in an unrecognizable language.	</p> 
+
+<h2>	My Learning Experience with GenAI	</h2>
+<p>	I learned a lot about Semantic HTML Structure, Basic JavaScript, and Cascading Style Sheets (CSS) with GenAI platforms Perplexity and ChatGPT. These platforms allowed me to develop a more thorough understanding of web development and how HTML, CSS, and JavaScript work together to create web pages that are accessible and interactive. Additionally, the opportunity to compare different GenAI platforms broadened my perspective on alternative AI tools, rather than relying on only one.	</p> 
+
+
+</body> 
+
+</html>
